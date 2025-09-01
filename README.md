@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <a href="https://haiv-fun-demo" title="DEMO 1"><strong>DEMO 1</strong></a> &nbsp; | &nbsp;
+    <a href="https://dubcasino.vercel.app" title="DEMO 1"><strong>DEMO 1</strong></a> &nbsp; | &nbsp;
     <a href="https://polycasino.io/" title="DEMO 2"><strong>DEMO 2</strong></a> &nbsp; | &nbsp;
     <a href="https://jaxon-demo.vercel.app" title="DEMO 3"><strong>DEMO 3</strong></a> &nbsp; | &nbsp;
     <a href="https://t.me/vicckr" rel="nofollow"><strong>TELEGRAM GROUP</strong></a>
